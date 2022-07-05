@@ -1,0 +1,192 @@
+* {
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(248, 248, 248);
+}
+
+.barra {
+    width: 100%;
+    height: 100px;
+    padding: 30px;
+    margin-bottom: 100px;
+    background-color: rgb(245, 194, 100);
+    box-shadow: 3px 5px rgb(226, 226, 226);
+    font-family: 'ABeeZee', sans-serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'The Nautigal', cursive;
+}
+
+.barra p {
+    font-size: 90px;
+    font-weight: 900;
+    color: rgb(61, 61, 61)
+}
+
+.quadro {
+    width: 400px;
+    /* height: 300PX; */
+    padding: 35px 35px 55px 35px;
+    border: 2px solid rgb(218, 218, 218);
+    background-color: rgb(255, 255, 255);
+    box-shadow: 2px 3px rgb(121, 121, 121);
+    margin: auto;
+}
+
+h1 {
+    font-family: 'ABeeZee', sans-serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'The Nautigal', cursive;
+    font-size: 65px;
+    color: brown;
+    margin-bottom: 55px;
+}
+
+input {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+    border: 1px solid rgb(199, 199, 199);
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    color: rgb(245, 231, 231);
+    background-color: rgb(117, 117, 117);
+    border: 1px solid rgb(219, 219, 219);
+    border-radius: 15px;
+}
+
+#resultado {
+    margin-top: 15px;
+}
+
+#resultado li {
+    margin-left: 6%;
+    color: rgb(114, 113, 113);
+}
+
+footer {
+    width: 100%;
+    height: 500px;
+    background-color: rgb(36, 36, 36);
+    margin-top: 100px;
+}
+
+@media only screen and (max-width: 414px) {
+
+    .barra {
+        width: 85%;
+        height: 70px;
+        padding: 30px;
+        margin-bottom: 10%;
+        background-color: rgb(245, 194, 100);
+        box-shadow: 3px 5px rgb(226, 226, 226);
+        font-family: 'ABeeZee', sans-serif;
+        font-family: 'Dancing Script', cursive;
+        font-family: 'Kanit', sans-serif;
+        font-family: 'Roboto', sans-serif;
+        font-family: 'The Nautigal', cursive;
+    }
+
+    .barra p {
+        font-size: 70px;
+        font-weight: 900;
+        text-align: center;
+        color: rgb(61, 61, 61)
+    }
+
+    h1 {
+        font-family: 'ABeeZee', sans-serif;
+        font-family: 'Dancing Script', cursive;
+        font-family: 'Kanit', sans-serif;
+        font-family: 'Roboto', sans-serif;
+        font-family: 'The Nautigal', cursive;
+        font-size: 45px;
+        color: brown;
+        margin-bottom: 35px;
+    }
+
+    .quadro {
+        width: 80%;
+        padding: 35px 35px 55px 35px;
+        border: 2px solid rgb(218, 218, 218);
+        background-color: rgb(255, 255, 255);
+        box-shadow: 0px 0px;
+        margin: auto;
+    }
+
+    footer {
+        width: 100%;
+        height: 500px;
+        background-color: rgb(36, 36, 36);
+        margin-top: 10%;
+    }
+}
+
+/* Resolution 712px x 1138px for Tablet */
+@media only screen and (max-width: 1024px) {
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
+    .barra {
+        width: 91.5%;
+        height: 70px;
+        padding: 30px;
+        margin-bottom: 10%;
+        background-color: rgb(245, 194, 100);
+        box-shadow: 3px 5px rgb(226, 226, 226);
+        font-family: 'ABeeZee', sans-serif;
+        font-family: 'Dancing Script', cursive;
+        font-family: 'Kanit', sans-serif;
+        font-family: 'Roboto', sans-serif;
+        font-family: 'The Nautigal', cursive;
+    }
+
+    .barra p {
+        font-size: 80px;
+        font-weight: 900;       
+        text-align: center;
+        color: rgb(61, 61, 61)
+    }
+
+    h1 {
+        font-family: 'ABeeZee', sans-serif;
+        font-family: 'Dancing Script', cursive;
+        font-family: 'Kanit', sans-serif;
+        font-family: 'Roboto', sans-serif;
+        font-family: 'The Nautigal', cursive;
+        font-size: 55px;
+        text-align: center;
+        color: brown;
+        margin-bottom: 50px;
+    }
+
+    .quadro {
+        width: 600px;
+        height: 500px;
+        padding: 35px 35px 55px 35px;
+        border: 2px solid rgb(218, 218, 218);
+        background-color: rgb(255, 255, 255);
+        box-shadow: 0px 0px;
+        margin: auto;
+    }
+
+    footer {
+        width: 100%;
+        height: 400px;
+        background-color: rgb(36, 36, 36);
+        margin-top: 10%;
+    }
+}
