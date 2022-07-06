@@ -11,14 +11,15 @@ dados informados pelo usuario como a quantidade de aldutos, crianças e tempo.
     + Tempo de churrasco.
     + Calcular quantidade de Carne. 
     + Calcular quantidade de Cerveja. 
-    + Calcular quantidade de bebidas 
+    + Calcular quantidade de bebidas.
+    + 
     
 + Pendentes
     + Desenhar nova regra de negocio.
     + Aprimorar interface visual.
     + Adultos, criança.
     + Adicionar variação de bebidas alcoolicas (Vinho, Whisky, Gin).
-    + Adicionar variação de bebidas (Refrigerante, suco e água.
+    + Adicionar variação de bebidas (Refrigerante, suco e água).
     + Opção de carnes Bovinas.
     + Opção de carnes Suinas.
     + Responsividade para telas grandes, medias e pequenas.
@@ -37,6 +38,9 @@ dados informados pelo usuario como a quantidade de aldutos, crianças e tempo.
     
 + IDE
     + Visual Studio Code  
+
+
+## Imagens
         
    ![](https://i.postimg.cc/ryYkZRdr/Screenshot-5.png)
    
