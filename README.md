@@ -1,7 +1,6 @@
-# Churrascometro
+# Churrascômetro
 
-O projeto está em desenvolvimento a ideia e criar uma pagina web, que realiza o calculo da quantidade de bebidas e carne que devem ser comprados com base nos  
-dados informados pelo usuario como a quantidade de aldutos, crianças e tempo. 
+O projeto está em desenvolvimento a ideia é criar uma página web, que realiza o cálculo da quantidade de bebidas e carne que devem ser comprados com base nos dados informados pelo usuário, como a quantidade de adultos, crianças e a duração do evento. 
 
 ## Funcionalidades
 
@@ -15,16 +14,16 @@ dados informados pelo usuario como a quantidade de aldutos, crianças e tempo.
     + 
     
 + Pendentes
-    + Desenhar nova regra de negocio.
+    + Desenhar nova regra de negócio.
     + Aprimorar interface visual.
-    + Adultos, criança.
-    + Adicionar variação de bebidas alcoolicas (Vinho, Whisky, Gin).
-    + Adicionar variação de bebidas (Refrigerante, suco e água).
+    + Adultos, crianças.
+    + Adicionar variação de bebidas alcoólicas (Vinho, Whisky, Gin).
+    + Adicionar variação de bebidas (refrigerante, suco e água).
     + Opção de carnes Bovinas.
-    + Opção de carnes Suinas.
-    + Responsividade para telas grandes, medias e pequenas.
+    + Opção de carnes Suínas.
+    + Responsividade para telas grandes, médias e pequenas.
     + Gerar lista com todos itens. 
-    + Realizar o desacoplamento do codigo.
+    + Realizar o desacoplamento do código.
     * Enviar lista por e-mail.
     * Imprimir lista em pdf.
     
