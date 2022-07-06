@@ -22,6 +22,11 @@ body {
     font-family: 'The Nautigal', cursive;
 }
 
+#logo {
+    width: 90px;
+    float: left;
+    margin-right: 20px;
+}
 .barra p {
     font-size: 90px;
     font-weight: 900;
