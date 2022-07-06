@@ -1,12 +1,12 @@
 # Churrascômetro
 
-O projeto está em desenvolvimento a ideia é criar uma página web, que realiza o cálculo da quantidade de bebidas e carne que devem ser comprados com base nos dados informados pelo usuário, como a quantidade de adultos, crianças e a duração do evento. 
+O projeto está em desenvolvimento a ideia é criar uma página web, que realiza o cálculo da quantidade de bebidas e carne que devem ser comprados com base nos dados informados pelo usuário, como a quantidade de adultos, crianças e a duração do evento. Nesse projeto vamos implemetar novas funcionalidade que seram descritas abaixo:
 
 ## Funcionalidades
 
 + Implementadas
-    + Adultos
-    + Crianças
+    + Adultos.
+    + Crianças.
     + Tempo de churrasco.
     + Calcular quantidade de Carne. 
     + Calcular quantidade de Cerveja. 
